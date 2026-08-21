@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="adsforge-banner-1280x640.jpg" alt="AdsForge — Google Ads Campaign Compiler & Execution Engine" width="100%">
+</p>
+
 # AdsForge
 
 ### Google Ads Campaign Compiler & Execution Engine
